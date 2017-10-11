@@ -1,5 +1,1 @@
-
-function myFunction() {
-    alert("Hello! I am an alert box!");
-}
-
+var myFunction = '<script>\nfunction myFunction() {\n    alert(\"Hello! I am an alert box!\");\n}\n<script>';
